@@ -8,7 +8,7 @@ Overview
 和文モールス信号を練習するソフトウェアです。いろは歌で一通り練習できます。
 
 ## Demo
-https://gyazo.com/f3233d532bfcceb62687b2ed139fefd6
+[![Image from Gyazo](https://i.gyazo.com/f3233d532bfcceb62687b2ed139fefd6.gif)](https://gyazo.com/f3233d532bfcceb62687b2ed139fefd6)
 
 ## Usage
 Space でトン／ツー打電
